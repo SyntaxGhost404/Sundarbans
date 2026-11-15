@@ -1,6 +1,6 @@
 # Raja Chapitala → Sundarbans: a two-part mystery blueprint
 
-A grounded two-part mystery-thriller for **Moin (narrator), Fakhru vai, Oli vai**, and, in Part 2, **Dr. Nasir vai**, with **Ahsanul mama** as the off-site ally.
+A grounded two-part mystery-thriller for **Moin (narrator), Fakhru vai, Oli vai**, and, in Part 2, **Dr. Nasir vai**, with **Ahsanul mama** as the off-site ally. Moin, Fakhru vai and Nasir vai are brothers; Oli vai is their khalato bhai.
 
 | | Part 1: **রংমহলের ইট** | Part 2: **দোয়ানির ডাক** |
 |---|---|---|
@@ -11,8 +11,7 @@ A grounded two-part mystery-thriller for **Moin (narrator), Fakhru vai, Oli vai*
 
 ## Files
 
-- `story/doyanir_dak_full_bn.md`: **the complete Sundarbans story in Bangla**, in one file
-- `story/chapters/ch01.md … ch16.md`: the same story, chapter by chapter
+- `story/chapters/ch01.md … ch16.md`: **the complete Sundarbans story in Bangla**, chapter by chapter
 - `blueprint/03_part1_raja_chapitala_blueprint.md`: Part 1 plot, clue table, twist ladder
 - `blueprint/04_part2_sundarbans_blueprint.md`: Part 2 timeline, cast, hidden truth, clue table, the two unexplained phenomena, chapter plan
 - `blueprint/01_source_analysis.md`: what was taken from the abandoned draft (places, family dynamics, dialogue) and what paranormal material was stripped
@@ -33,11 +32,12 @@ A grounded two-part mystery-thriller for **Moin (narrator), Fakhru vai, Oli vai*
 5. **Real costs and setbacks.** Near-misses with the strict family, a stolen camera, a lost dinghy in fog, wrong theories (the kiln owner, the shawl man, the forest guard, Haji himself).
 6. **Hand-off, not heroics.** Arrests are made by police, the Coast Guard and the forest department, acting on the amateurs' evidence. Ahsanul mama makes calls and gives counsel; he never solves anything.
 
-**Technology** stays a tool. The drone flies twice at dawn in Part 1. In Part 2 it is sealed by the forest guard under the Sundarbans drone ban and flown **once**, for a search-and-rescue, with written consent. The trail camera yields a few clips. There is no network most of the time.
+**Technology** stays a tool. The drone flies twice at dawn in Part 1. In Part 2 Oli's DJI Mini 4 Pro flies **twice** despite the Sundarbans drone ban, which is a forest-department rule with no software lock: Oli's ten-minute scouting flight, and Moin's launch the moment the fog thins. Nobody stops to ask permission mid-crisis, and the drone only ever shows where to look. The trail camera yields a few clips. There is no network most of the time.
 
 ## Assumptions to check
 
 - **"More than two and a half years":** December 2026 is about 2 years 5 months after the July 2024 trip in the old draft, so the story can say "প্রায় আড়াই বছর".
 - **The Urs date** of Kazi Siraj Uddin Chishti (R.) isn't online. Part 1 uses a winter *mahfil* instead; swap in the real Urs if it falls in December.
+- **Drone geofencing:** DJI's airport zone explains why the Mini 4 Pro won't take off at Uttara (beside the Dhaka airport). No comparable DJI zone was found over the Sundarbans; the ban there is enforced by people, not software.
 - **Nasir vai's hospital** is left unnamed. **1971 battle** details beyond "a major Chapitala clash" are fictionalised. **All villains and the pirate gang are fictional.**
 - **Nazib's late twist** in Part 1 (he knew about the night exits) is optional; drop it if you want him fully in the dark.
