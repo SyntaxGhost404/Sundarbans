@@ -1,11 +1,11 @@
 # Raja Chapitala → Sundarbans: a two-part mystery blueprint
 
-A grounded two-part mystery-thriller for **Moin (narrator), Fakhru vai, Oli vai**, and, in Part 2, **Dr. Nasir vai**, with **Ahsanul mama** as the off-site ally. Moin, Fakhru vai and Nasir vai are brothers; Oli vai is their khalato bhai.
+A grounded two-part mystery-thriller for **Moin (narrator), Fakhru vai, Oli vai**, and, in Part 2, **Dr. Nasir vai**, with **Ahsanul mama** as the off-site ally. Moin, Fakhru vai and Nasir vai are brothers; Oli vai is their khalato bhai. The two elder brothers call Moin **বাবু**; Oli vai and Mama call him **মঈন** or **মঈন উদ্দিন**.
 
 | | Part 1: **রংমহলের ইট** | Part 2: **দোয়ানির ডাক** |
 |---|---|---|
 | Where | Raja Chapitala (Chapitala union, now in the new **Bangra upazila**, gazetted 8 Jul 2026), Cumilla | Joymoni (Mongla) → the Sundarbans → Dublar Char |
-| When | **16–22 Dec 2026** (Fakhru's 2026 winter break) | **19–26 Dec 2027** (break: Fri 10 Dec 2027 – Mon 10 Jan 2028) |
+| When | **16–22 Dec 2026** (Fakhru's 2026 winter break) | **19–28 Dec 2027** (break: Fri 10 Dec 2027 – Mon 10 Jan 2028) |
 | Nature | Looks supernatural; **100% human** explanation | Human intrigue **fully solved**, plus **two linked phenomena left unexplained** |
 | Deliverable | Detailed blueprint | Blueprint **and the full story in Bangla (16 chapters, ~30,000 words)** |
 

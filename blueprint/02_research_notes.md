@@ -30,7 +30,11 @@
 - Shutki season opened 30 Oct (2026-27); runs to end of March; 18 temp houses / 67 depots / 116 shops permitted in one report; revenue target ৳8 crore; ~1,200 trawlers jumped the gun. https://www.ajkerpatrika.com/bangladesh/khulna/ajpjvwcze4vh3
 
 ## Travel
-- Sundarban Express (725/726) runs via Padma Bridge (Bhanga–Narail–Jashore); Dhaka 08:00 → Khulna ~15:40 (third-party timetable); Jahanabad Express (825/826) via Padma, ~3h45m, Dhaka 20:00 → 23:45, started 24 Dec 2024. Chitra Express goes via Jamuna bridge. https://en.wikipedia.org/wiki/Jahanabad_Express ; https://bangla.bdnews24.com/bangladesh/fdd58500545f
+- **Sundarban Express (725/726)** (re-checked Nov 2026): via Padma Bridge, then Bhanga–Faridpur–Rajbari–Kushtia–Poradah–Chuadanga–Jashore, **not via Narail**. Dhaka 08:00 → Khulna 15:40, off day Wednesday; Khulna 21:45 → Dhaka 05:10. Classes S_Chair, Snigdha, AC_S, **AC_B (cabins)**. https://www.trainjatri.com/stations/dhaka/dhaka-to-khulna ; https://www.trainjatri.com/stations/khulna/khulna-to-dhaka (both updated 24 Aug 2026); https://en.wikipedia.org/wiki/Sundarban_Express ; https://bangla.bdnews24.com/bangladesh/tdy3j367ek (via Faridpur, Rajbari, Kushtia)
+- **Jahanabad Express (825/826)**: via Padma Bridge, Bhanga, Kashiani, Lohagara, **Narail**, Singia, Noapara; Khulna 06:00 → Dhaka 09:45; Dhaka 20:00 → Khulna 23:40–23:45; **off day Monday**; classes AC sleeper (AC berth), AC chair, Shovan chair. https://bangla.bdnews24.com/bangladesh/fdd58500545f ; https://bangla.thedailystar.net/news/bangladesh/news-638546 ; https://en.wikipedia.org/wiki/Jahanabad_Express
+- **Cabins:** Bangladesh Railway AC-berth "double cabin" = 4 berths, "single cabin" = 2. https://www.tbsnews.net/bangladesh/transport/railway-introduces-sleeper-coaches-dhaka-coxs-bazar-route-857781 . Online purchases are capped at 4 tickets, enough for one whole cabin.
+- **2027 calendar check:** 18 Dec Sat, 19 Dec Sun, 27 Dec **Mon (Jahanabad off)**, 28 Dec Tue. So the story returns on Tue 28 Dec (06:00 Jahanabad), after Kader is admitted in Khulna on the 27th.
+- Chitra Express goes via the Jamuna bridge (Dhaka 19:30 → Khulna 04:40, off Sunday).
 - Khulna–Mongla railway: inaugurated 1 Nov 2023; commuter "Mongla Express" 6 days/week; Aug 2026 report: extension of Dhaka–Khulna trains to Mongla under consideration.
 - Starlink reportedly usable deep in the Sundarbans (Prothom Alo) — some luxury vessels; ordinary boats rely on patchy GSM.
 

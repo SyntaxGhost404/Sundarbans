@@ -18,10 +18,10 @@ A year after Raja Chapitala, the trio, now confident that every "haunting" has a
 | 10 Dec 2027 | Fri | | Break starts; Fakhru flies |
 | 11 Dec | Sat | | Fakhru lands in Dhaka at night |
 | **13 Dec** | Mon | **Full moon 22:09** | Roof adda under the full moon → Sundarbans idea → video call with Ahsanul mama → Mama calls Haji saheb, then Nasir (on duty: "অসম্ভব") → group call |
-| 14 Dec | Tue | | Train tickets bought online for Sun 19 Dec |
+| 14 Dec | Tue | | A whole four-berth AC-berth cabin (all four berths, for three travellers) bought on the railway app for Sun 19 Dec |
 | 16 Dec | Thu | | Victory Day |
-| 18 Dec | Sat | | *Off-page:* Nasir takes the 8 pm Jahanabad Express (via Padma Bridge, about 3h45m) to Khulna; Haji's car to Joymoni |
-| **19 Dec** | Sun | | **Sundarban Express**, Kamalapur 08:00 → Padma Bridge → Bhanga → Narail → Jashore → Khulna about 15:40 → microbus → Joymoni ghat about 17:25 (sunset 17:21) → **Nasir surprise**. Night 1: the lightless dinghy and the whistle |
+| 18 Dec | Sat | | *Off-page:* Nasir takes the 8 pm Jahanabad Express 826 alone (via Padma Bridge, about 3h45m; it runs Saturdays, off day Monday) to Khulna; Haji's car to Joymoni |
+| **19 Dec** | Sun | | **Sundarban Express 726** (off day Wednesday) in a whole AC-berth cabin, Kamalapur 08:00 → Padma Bridge → Bhanga → Faridpur → Rajbari → Kushtia Court (Fakhru's 33rd district) → Poradah → Jashore → Khulna 15:40 (15:50 with fog) → microbus → Joymoni ghat about 17:25 (sunset 17:21) → **Nasir surprise**. Night 1: the lightless dinghy and the whistle |
 | 20 Dec | Mon | **Last quarter 15:10** | Guard Rafiqul boards and warns that drones are banned (Oli: "জানি"); Pasur; Karamjal; Harbaria; Oli's fishing masterclass; night 2 anchored in a side khal |
 | 21 Dec | Tue | | To পরীর দোয়ানি; Asr doa for Kader; trail cam on a bank tree; **night 3: The Calling + the lights** |
 | 22 Dec | Wed | | Dawn: four-toed footprints, snare line, pesticide cap; trail cam clip at 03:10 (red gamchha, left-side rower); Oli spots poison-killed fish on the tide line; Oli's ten-minute scouting flight pins a tarp about 1.4 km inside the sanctuary; Shahin arrives by speedboat; the hidden drying platform; leave toward the Sela; night 4 near Supati |
@@ -29,8 +29,8 @@ A year after Raja Chapitala, the trio, now confident that every "haunting" has a
 | 24 Dec | Fri | | Kotka: watchtower, beach, forest station; coordinates and the "Saturday morning" protocol; Jumu'ah, then Dublar Char depot: logbook, reddish sacks, **overheard call ("কাদেররে… সরাইতে")**; back to the doyani by dusk; night 6 |
 | **25 Dec** | Sat | waning crescent | Dawn fog: Oli and Jamal vanish → drone search (Moin flies) → camp found → rescue with the Coast Guard → **Kader alive** → Shahin caught fleeing → evening: Nasir explains. **Night 7: the phenomena return with every criminal accounted for** |
 | 26 Dec | Sun | | Up the Pasur to Joymoni; Kader and Rahela reunited; Rahela's October night |
-| 27 Dec | Mon | | Train home |
-| 28 Dec | Tue | **New moon 02:13** | |
+| 27 Dec | Mon | | Kader admitted in Khulna; night in Khulna (Monday is Jahanabad's off day) |
+| 28 Dec | Tue | **New moon 02:13** | **Jahanabad Express 825** Khulna 06:00 → Dhaka 09:45 in a whole AC-berth cabin; Fakhru's 34th tick at Narail; Nasir asleep across the Padma |
 | 9 Jan 2028 | Sun | | Fakhru flies back; epilogue |
 
 Sun at Mongla: rise about 06:35–06:38, set about 17:21–17:24. Tides go from **neap** around 20 Dec (last quarter) to **spring** (জো) around 28 Dec (new moon), so water rises higher every day of the trip and the mudbanks drown.
@@ -43,11 +43,11 @@ Sun at Mongla: rise about 06:35–06:38, set about 17:21–17:24. Tides go from 
 
 | | Age | Notes | Address |
 |---|---|---|---|
-| **Moin** | 18 | Narrator; youngest of the three brothers; Oli's right hand and drone pupil; can't swim; flies the drone in the crisis | Nasir → Moin **তুই**; Moin → Nasir **তুমি** |
+| **Moin** | 18 | Narrator; youngest of the three brothers; Oli's right hand and drone pupil; can't swim; flies the drone in the crisis | Nasir → Moin **তুই**, calls him **বাবু**; Moin → Nasir **তুমি**, calls him **ভাইয়া** |
 | **Dr. Nasir Uddin** | 32 | Eldest of the three brothers; BCS-cadre surgeon; curly hair; always panjabi + white payjama; calm, dry wit; **undisputed leader**; devout and rational | Nasir ↔ Fakhru **তুই**; Nasir ↔ Oli **তুমি** |
-| **Fakhruddin (Fakhru)** | 31 | Middle brother; US PhD student; systematic timelines; **4K night-vision trail camera (new model)**; can't swim | Fakhru ↔ Moin ↔ Oli **তুমি** |
-| **Oli Ullah** | 25 | The brothers' **khalato bhai** (maternal cousin), from Narayanganj. **The most action-fit of the four**: strong swimmer, first onto the mud, cuts the pirates' boat loose. **A real angler** (a pond behind his house): perfect casts, baits everyone's hooks, recognises poison-killed fish and insecticide-dusted shutki. **Top-tier drone pilot** with a **DJI Mini 4 Pro**; humour | Oli ↔ all three brothers **তুমি** |
-| **Ahsanul mama** | | Off-site; waz season; phone only at network spots; never solves it | They use আপনি; he uses মামুরা/তোমরা |
+| **Fakhruddin (Fakhru)** | 31 | Middle brother; US PhD student; systematic timelines; **4K night-vision trail camera (new model)**; can't swim | Fakhru ↔ Moin ↔ Oli **তুমি**; Fakhru calls Moin **বাবু** and Nasir **ভাইয়া** |
+| **Oli Ullah** | 25 | The brothers' **khalato bhai** (maternal cousin), from Narayanganj. **The most action-fit of the four**: strong swimmer, first onto the mud, cuts the pirates' boat loose. **A real angler** (a pond behind his house): perfect casts, baits everyone's hooks, recognises poison-killed fish and insecticide-dusted shutki. **Top-tier drone pilot** with a **DJI Mini 4 Pro**; humour | Oli ↔ all three brothers **তুমি**; calls Moin **মঈন / মঈন উদ্দিন**, Nasir **নাসির ভাই** |
+| **Ahsanul mama** | | Off-site; waz season; phone only at network spots; never solves it | They use আপনি; he uses মামুরা/তোমরা and calls Moin **মঈন / মঈন উদ্দিন** |
 | **Haji Abdur Rob Gazi** | 61 | Joymoni (Chila union, Mongla). Seven trawlers; a dried-fish depot (খটি) at Alorkol, Dublar Char; son Tanvir runs **"গাজী শুঁটকি বিতান"**, Bazarghata, Cox's Bazar. Murid of the Raja Chapitala darbar. **Nasir's regular patient** (diabetic foot, operated in 2026), so since 2026 he has had to leave the depot to his nephew | Everyone → him আপনি; he calls Nasir "স্যার", the boys "বাবা" |
 | **Shahin Molla** | 36 | Haji's sister's son; depot manager; charming fixer; **the culprit** | |
 | **Alauddin সারেং** | 57 | Skipper; 30+ years on these rivers; tide lore by heart; Bonbibi and jinn stories | |
@@ -61,6 +61,10 @@ Sun at Mongla: rise about 06:35–06:38, set about 17:21–17:24. Tides go from 
 | Coast Guard patrol, Kotka forest staff | | Real institutions shown positively; individuals unnamed | |
 
 **Narration rule:** Moin, Fakhru and Nasir are own brothers, so Moin narrates Nasir at তুমি level (সে/তার/তাকে, বলল/করল), never তিনি/তাঁর/বললেন. Fakhru calls him ভাইয়া, never the bare name. Elders and outsiders (Haji, Mama, the skipper, Rafiqul, Shahin, Mofiz, officers) stay honorific.
+
+**Dialogue rule:** the four speak natural standard চলিত, neither rural nor textbook-stiff; Nasir keeps a calm, exact, Feluda-like authority. Everyone else (Haji, Mama, the crew, Kader, Rahela, Shahin, Rafiqul) keeps their own regional speech. **বাবু** is Moin's family pet name, used only by Nasir and Fakhru; Oli, Mama and others say **মঈন** or **মঈন উদ্দিন**. **Prose:** balanced commas (about 6 per 100 words), no comma-chained fragments.
+
+**Travel rule:** whenever the family goes by train, they book one whole cabin for everyone travelling, never scattered seats.
 
 Vessel: **এম.বি. সিরাজী** (named after the darbar). About 55-ft wooden trawler, refitted with two small cabins, a covered deck, a wheelhouse, solar battery, walkie-talkies, life jackets (Nasir makes Fakhru and Moin wear them), a motor-dinghy and a small rowing ডিঙি. No Starlink ("ওই জিনিস বড়লোকের জাহাজে থাকে" — Mofiz).
 
@@ -110,7 +114,7 @@ Legal frame: forest permits for guests, vessel and crew, an armed guard aboard, 
 They are linked by **place** (the doyani and the riverbank behind Rahela's hut), **time** (the darkest nights, around 2 am), **behaviour** (they imitate the beloved; they fade at the adhan or the prophetic dua), and **lore** (the skipper's "ওনারা" of the gewa grove, the old tiger-graves).
 
 ### A. The Calling (নাম ধরে ডাক)
-- **Night 3, about 01:40:** "মঈন… এই মঈন… এদিকে আয়" from the dark forest, in **Nasir's exact voice**, while Nasir sleeps a foot away. Fakhru hears it too; Oli sleeps through. Moin half-rises; Fakhru grips his wrist. The skipper, awake at the wheel, whispers: "সাড়া দিবেন না।" Nasir wakes, recites **আঊযু বিকালিমাতিল্লাহিত তা-ম্মাতি মিন শাররি মা খালাক** (Sahih Muslim 2708) and Ayat al-Kursi. Silence.
+- **Night 3, about 01:40:** "বাবু… এই বাবু… এদিকে আয়" from the dark forest, in **Nasir's exact voice** and with the family pet name only Nasir and Fakhru use, while Nasir sleeps a foot away. Fakhru hears it too; Oli sleeps through. Moin half-rises; Fakhru grips his wrist. The skipper, awake at the wheel, whispers: "সাড়া দিবেন না।" Nasir wakes, recites **আঊযু বিকালিমাতিল্লাহিত তা-ম্মাতি মিন শাররি মা খালাক** (Sahih Muslim 2708) and Ayat al-Kursi. Silence.
 - **31 Oct (told on 26 Dec):** Rahela heard **Kader's voice** call "রাহেলা" three times at about 2 am behind her hut. That night Kader lay chained and feverish, tens of kilometres away.
 - **Night 7, about 01:55:** a woman's voice calls "কাদের… বাপ কাদের…". Kader, shaking: his **mother's voice; she died three years ago**.
 - *Rational candidates mentioned, never confirmed:* half-sleep hallucination, grief, wind in the gewa snags. *Against them:* two awake listeners on night 3, a specific name and a specific voice, and no human anywhere.
@@ -128,7 +132,7 @@ They are linked by **place** (the doyani and the riverbank behind Rahela's hut),
 ## 7. Chapter plan (16 chapters, numbered in the Feluda manner)
 
 1. **Dhaka, full moon (13 Dec).** Fakhru's return. Roof adda. Moin: "সুন্দরবন?" Oli: "বান্দরবান।" Moin's argument: the two of them have both seen Bandarban, and only Fakhru has seen the Sundarbans, briefly in his Dhaka University days. Fakhru has seen 32 of 64 districts. Video call: Mama's affection, laughter, waz season. His proposal: Haji Gazi, the boat, nets, lines, fresh catch. Fakhru: "নাসির ভাইয়া থাকলে…" Mama's bombshell about the doctor and the shutki shop. Calls: Haji agrees and promises "নিরিবিলি, গা ছমছমে জায়গা", and asks after "নাসির স্যার". Nasir on duty: "অসম্ভব।" Group call: disappointment and excitement. Moin hasn't been on a train in 13 years.
-2. **The Sundarban Express (19 Dec).** Kamalapur in fog. The train. The **Padma Bridge** by rail. Bhanga, Narail (the Chitra), Jashore, Khulna. Mannan's microbus to Mongla, then Chila, then Joymoni. Dusk ghat. **The surprise**: curly hair, panjabi and white payjama, a big bhetki on a plate. Nasir talks to Oli and Fakhru as if nothing happened ("ট্রেন লেট করেনি তো?"). Haji saheb, Shahin, the crew.
+2. **The Sundarban Express (19 Dec).** Kamalapur in fog. A whole four-berth AC cabin (the family rule). The **Padma Bridge** by rail. Bhanga, Faridpur, Rajbari, a two-minute stop at Kushtia Court (Fakhru's 33rd district: "লালনের জেলা"), Poradah, Jashore, Khulna. Mannan's microbus to Mongla, then Chila, then Joymoni. Dusk ghat. **The surprise**: curly hair, panjabi and white payjama, a big bhetki on a plate. Nasir talks to Oli and Fakhru as if nothing happened ("ট্রেন লেট করেনি তো?"). Haji saheb, Shahin, the crew.
 3. **Kader's story (night 1).** Dinner: চুইঝালে হাঁস, bhetki, rice. Haji's story of 29 Oct. Shahin's warmth. Rahela at the ghat; she tells Nasir quietly "ও আমারে ডাকে". 23:50: a lightless dinghy, green pin-pricks, a whistle. Jamal: "কাদের ভাইয়ের শিস!"
 4. **At the forest's door (20 Dec).** Fog. Rafiqul boards and warns that drones are banned; Oli: "জানি, রফিকুল ভাই" (he said "know", not "obey"); Moin on the Uttara airport geofence versus the lockless Sundarbans. Dolphins in the Pasur. Karamjal; Harbaria boardwalk; a basking crocodile in winter sun (Oli photographs it; Fakhru's dinosaur fact). Oli's fishing masterclass: the perfect cast and a double catch, Jamal's "পাক্কা জাইলা!", the Narayanganj pond, Oli baits everyone's hooks and frees Moin's snag, and lands a bhetki of about 1.5 হাত. Night 2: the skipper's Bonbibi and jinn lore; Nasir on duas; Mofiz's terror.
 5. **The Fairies' Doyani (21 Dec).** The confluence, the gewa grove, the graves. No birds. Asr doa. The trail cam goes on a bank tree. **Night 3: The Calling, then the lights.** Cliffhanger.
@@ -142,7 +146,7 @@ They are linked by **place** (the doyani and the riverbank behind Rahela's hut),
 13. **The forbidden sky.** About 09:10, no ceremony and no permission: Moin is airborne within a minute and Rafiqul says nothing. Moin flies (Oli, the real pilot, is the missing one). The tied dinghy, the smoke, the camp, a chained man in a red gamchha, and two figures hiding behind a fallen sundari. Walkie-talkie. The Coast Guard boat appears in the main channel (the Kotka protocol). The officer: "ড্রোন? সুন্দরবনে?", then "ড্রোনের কথা আজ আমি কিছু শুনি নাই", and he asks Moin to fly again.
 14. **Kader.** Moin guides from the deck via drone and walkie-talkie. Oli cuts the pirates' boat loose so they can't take Kader away; the pirates bolt into the forest; one is caught in the mud; Rafiqul's warning shots; the Coast Guard reaches the camp. Kader is freed. Nasir tends to chain sores and dehydration. Kader's story.
 15. **The truth's resting place.** Haji's grief; he phones the Coast Guard himself to stop Shahin's trawler (caught near the sea mouth). Bachchu taken at the depot. Rafiqul's phone: a daughter, Banani. At Kotka that evening, **Nasir explains**, clue by clue (§5).
-16. **Beyond explanation.** Night 7 at the doyani with the Coast Guard alongside: the lights, the mother's voice, the adhan. The trail cam's 37 empty frames. 26 Dec: Joymoni at dusk, Kader and Rahela; Rahela's October night. Mama's last call ("দোয়া কাজ করে, মামুরা… কিন্তু চোরের চাঁদাকে দোয়া ভাবলে সেটা আর দোয়া থাকে না।"). Haji's vow; the Cox's Bazar shop pulls the reddish stock. No report mentions the drone; Oli names it "উদ্ধারকারী". 9 Jan: Fakhru flies. Moin's last line.
+16. **Beyond explanation.** Night 7 at the doyani with the Coast Guard alongside: the lights, the mother's voice, the adhan. The trail cam's 37 empty frames. 26 Dec: Joymoni at dusk, Kader and Rahela; Rahela's October night. Mama's last call ("দোয়া কাজ করে, মামুরা… কিন্তু চোরের চাঁদাকে দোয়া ভাবলে সেটা আর দোয়া থাকে না।"). Haji's vow; the Cox's Bazar shop pulls the reddish stock. No report mentions the drone; Oli names it "উদ্ধারকারী". 27 Dec: Kader to hospital in Khulna. 28 Dec: Jahanabad 06:00 in a whole cabin, Fakhru's 34th tick at Narail, "পরীর দোয়ানি — টিক দেওয়া যাবে না". 9 Jan: Fakhru flies. Moin's last line.
 
 ---
 
@@ -152,4 +156,5 @@ They are linked by **place** (the doyani and the riverbank behind Rahela's hut),
 - **Tech:** the trail cam gives one decisive clip (and one ambiguous record); offline GPS gives coordinates; the drone flies twice, against the ban and without ceremony (Oli's scouting flight, Moin's fog search), and only ever shows where to look: people do the rest; walkie-talkies are ordinary fishing gear. No signal most of the time.
 - **Ahsanul mama:** three calls (setup; Kochikhali counsel plus one remembered remark; closing). Never a solution.
 - **Nasir as leader:** chooses the route risks, says "ওড়াও" when the drone is the right tool and keeps it quiet afterwards, reads the vest and the shutki like a surgeon, protects Haji's dignity, keeps faith and reason in one hand.
+- **Travel realism:** only real Bangladesh Railway services with checked times, routes and off days (Sundarban Express 726 via Rajbari–Kushtia, off Wednesday; Jahanabad Express 825/826 via Narail, off Monday), always one whole AC-berth cabin.
 - **Respect:** Bonbibi lore is shown as living folk culture; the protagonists answer with prophetic duas, not mockery. The pirate gang and all criminals are fictional. Forest staff and the Coast Guard are depicted as stretched but honest.
