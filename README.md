@@ -11,6 +11,7 @@ npm install
 npm run dev        # local server with hot reload
 npm run build      # checks, type check, then a production build in dist/
 npm run preview    # serve dist/ locally
+node scripts/build-preview.mjs   # a copy for HTML preview hosts, in dist-preview/
 ```
 
 The build uses relative paths and hash routes, so `dist/` runs from any folder or subpath: GitHub Pages, Netlify, a USB stick.
