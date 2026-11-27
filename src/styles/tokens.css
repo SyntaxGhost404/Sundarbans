@@ -36,9 +36,9 @@
   --moon-lit: #e8ede9;
   --shadow: 0 1px 2px rgba(10, 14, 11, 0.06);
 
-  --font-sans: 'IBM Plex Sans', 'Noto Sans Bengali Variable', system-ui, sans-serif;
-  --font-bn: 'Noto Sans Bengali Variable', 'IBM Plex Sans', system-ui, sans-serif;
-  --font-serif-bn: 'Noto Serif Bengali Variable', 'Noto Sans Bengali Variable', serif;
+  --font-sans: 'IBM Plex Sans', 'Noto Sans Bengali Variable', 'Noto Sans Bengali', system-ui, sans-serif;
+  --font-bn: 'Noto Sans Bengali Variable', 'Noto Sans Bengali', 'IBM Plex Sans', system-ui, sans-serif;
+  --font-serif-bn: 'Noto Serif Bengali Variable', 'Noto Serif Bengali', 'Noto Sans Bengali Variable', serif;
   --font-mono: 'IBM Plex Mono', ui-monospace, 'SFMono-Regular', monospace;
 
   /* Corner radii in squircle units. Native corner-shape scales them by --sq-k. */
