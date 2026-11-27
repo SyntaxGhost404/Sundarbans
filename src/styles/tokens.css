@@ -1,0 +1,128 @@
+/* Design tokens. Light is the base; dark is applied by system preference
+   unless the user picked light, or always when the user picked dark.
+   Palette rule: neutrals, greens, red for danger, yellow for warnings.
+   No pink, purple, violet, blue, orange or brown anywhere. */
+
+:root {
+  color-scheme: light;
+
+  --bg: #f2f4f1;
+  --surface: #ffffff;
+  --surface-2: #e9ede8;
+  --surface-3: #dde3dc;
+  --line: #d3dad2;
+  --line-strong: #b4beb3;
+  --text: #111512;
+  --text-2: #3c4540;
+  --text-3: #626d66;
+  --accent: #2f6b12;
+  --accent-ink: #ffffff;
+  --accent-soft: #e1edd3;
+  --accent-text: #2a5e10;
+  --danger: #b42318;
+  --warn-soft: #f2edc4;
+  --warn-text: #4a5200;
+  --focus: #2f6b12;
+  --select: #cfe3b8;
+  --scrim: rgba(10, 14, 11, 0.42);
+  --photo-bg: #d7ddd6;
+  --raised: #ffffff;
+  --knob: #ffffff;
+  --toast-bg: #161b17;
+  --toast-fg: #eef2ef;
+  --toast-action: #b8e34d;
+  --night: #0f1411;
+  --moon-dark: #232b26;
+  --moon-lit: #e8ede9;
+  --shadow: 0 1px 2px rgba(10, 14, 11, 0.06);
+
+  --font-sans: 'IBM Plex Sans', 'Noto Sans Bengali Variable', system-ui, sans-serif;
+  --font-bn: 'Noto Sans Bengali Variable', 'IBM Plex Sans', system-ui, sans-serif;
+  --font-serif-bn: 'Noto Serif Bengali Variable', 'Noto Sans Bengali Variable', serif;
+  --font-mono: 'IBM Plex Mono', ui-monospace, 'SFMono-Regular', monospace;
+
+  /* Corner radii in squircle units. Native corner-shape scales them by --sq-k. */
+  --r-xs: 6px;
+  --r-sm: 10px;
+  --r-md: 14px;
+  --r-lg: 20px;
+  --r-xl: 28px;
+  --sq-k: 1.6;
+
+  --gutter: 16px;
+  --appbar-h: 56px;
+  --tabbar-h: 64px;
+  --rail-w: 252px;
+  --content-w: 1040px;
+  --safe-b: env(safe-area-inset-bottom, 0px);
+  --safe-t: env(safe-area-inset-top, 0px);
+
+  --ease: cubic-bezier(0.2, 0.8, 0.2, 1);
+  --ease-in: cubic-bezier(0.4, 0, 1, 1);
+  --t-fast: 140ms;
+  --t-med: 220ms;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    color-scheme: dark;
+
+    --bg: #0b0e0c;
+    --surface: #121614;
+    --surface-2: #181d1a;
+    --surface-3: #212823;
+    --line: #252d28;
+    --line-strong: #36423b;
+    --text: #e6ebe7;
+    --text-2: #aab4ae;
+    --text-3: #7f8a84;
+    --accent: #b8e34d;
+    --accent-ink: #0b0e0c;
+    --accent-soft: #1f2a14;
+    --accent-text: #c4ea66;
+    --danger: #f2554a;
+    --warn-soft: #272a10;
+    --warn-text: #e3d35a;
+    --focus: #b8e34d;
+    --select: #34461c;
+    --scrim: rgba(0, 0, 0, 0.6);
+    --photo-bg: #1b201d;
+    --raised: #2a332d;
+    --knob: #d5dcd7;
+    --toast-bg: #e6ebe7;
+    --toast-fg: #111512;
+    --toast-action: #2f6b12;
+    --shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+  }
+}
+
+:root[data-theme='dark'] {
+  color-scheme: dark;
+
+  --bg: #0b0e0c;
+  --surface: #121614;
+  --surface-2: #181d1a;
+  --surface-3: #212823;
+  --line: #252d28;
+  --line-strong: #36423b;
+  --text: #e6ebe7;
+  --text-2: #aab4ae;
+  --text-3: #7f8a84;
+  --accent: #b8e34d;
+  --accent-ink: #0b0e0c;
+  --accent-soft: #1f2a14;
+  --accent-text: #c4ea66;
+  --danger: #f2554a;
+  --warn-soft: #272a10;
+  --warn-text: #e3d35a;
+  --focus: #b8e34d;
+  --select: #34461c;
+  --scrim: rgba(0, 0, 0, 0.6);
+  --photo-bg: #1b201d;
+  --raised: #2a332d;
+  --knob: #d5dcd7;
+  --toast-bg: #e6ebe7;
+  --toast-fg: #111512;
+  --toast-action: #2f6b12;
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+}

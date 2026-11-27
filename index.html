@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Most Lights</title>
+    <meta name="description" content="Case files, evidence and field tools from five brothers who look for the person behind the light." />
+    <meta name="theme-color" content="#f2f4f1" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0b0e0c" media="(prefers-color-scheme: dark)" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Most Lights" />
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <script>
+      // Runs before first paint: theme and squircle mode, so nothing flashes.
+      (function () {
+        var d = document.documentElement
+        var theme = 'system'
+        try {
+          var raw = localStorage.getItem('most-lights')
+          if (raw) theme = (JSON.parse(raw).state || {}).theme || 'system'
+        } catch (e) {}
+        if (theme === 'light' || theme === 'dark') d.setAttribute('data-theme', theme)
+        var forceJs = /[?&]sq=js/.test(location.search)
+        var native = !forceJs && window.CSS && CSS.supports && CSS.supports('corner-shape', 'squircle')
+        d.classList.add(native ? 'sq-native' : 'sq-js')
+      })()
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <div id="layer"></div>
+    <noscript>This site needs JavaScript. Turn it on and reload.</noscript>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
